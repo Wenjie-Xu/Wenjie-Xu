@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenjie-Xu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Shell
+- 👀 I’m interested in Basketball、Bodybuding
+- 🌱 I’m currently learning xxx
 
 <!---
 Wenjie-Xu/Wenjie-Xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
