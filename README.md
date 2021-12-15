@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wenjie-Xu
-- 👀 I’m interested in Basketball、Bodybuding
+- 👀 I’m interested in Basketball、Bodybuilding
 - 🌱 I’m currently learning xxx
 
 <!---
