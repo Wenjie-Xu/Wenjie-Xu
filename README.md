@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenjie-Xu
 - 👀 I’m interested in Basketball、Bodybuilding
-- 🌱 I’m currently learning xxx
+- 🌱 I’m currently learning Docker
 
 <!---
 Wenjie-Xu/Wenjie-Xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
